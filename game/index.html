@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bowl of Chips</title>
+    <style>
+      #main {
+        position: fixed;
+        left: 50%;
+        width: 300px;
+        height: 100%;
+        margin-left: -150px;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="main">
+      <p id="situation">Situation text!</p>
+      <p id="progress">Progress text!</p>
+      <button id="action" onclick="update()">Action button!</button>
+    </div>
+
+    <script type="text/javascript" src="data.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
