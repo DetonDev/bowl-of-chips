@@ -1,3 +1,6 @@
+// this is the data file for the game. there is probably a better way to implement this but i'm too lazy so anyone reading this can give it a try. :)
+// text is the main text describing things, progress is the action tracker, length is the clicks required to pass, action is the button text.
+
 const content = [
     {
         "text": "You walk into the dining room. The first thing to catch your eye is a bowl of light-blue hue, filled to the brim with nacho-cheese chips. It is just sitting on the table, not serving any purpose. No one is watching...",
