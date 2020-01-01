@@ -1,2 +1,2 @@
 # bowl-of-chips
-A game created on my quest to design the stupidest game ever. It's still unfinished.
+A web game created on my quest to design the stupidest game ever. May be updated in the future.
