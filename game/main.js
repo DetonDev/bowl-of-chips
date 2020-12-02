@@ -11,7 +11,7 @@ function update() {
     time++;
   };
   document.getElementById("situation").innerHTML = content[time].text; // updating the main text that lets you know what's going on!
-  document.getElementById("progress").innerHTML = content[time].progress + ': ' + progress + '/' + content[time].length; // updating the progress ticker so that you can know how close you are to the next part!
+  document.getElementById("progress").innerHTML = content[time].progress + ':<br>' + progress + '/' + content[time].length; // updating the progress ticker so that you can know how close you are to the next part!
   document.getElementById("action").innerHTML = content[time].action; // updating the button text to fit with the rest of the program!
 };
 
