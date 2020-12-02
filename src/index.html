@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bowl of Chips</title>
+    <style>
+      #main {
+        position: fixed;
+        left: 50%;
+        width: 300px;
+        height: 100%;
+        margin-left: -150px;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 16px;
+        font-family: serif;
+      }
+      #action {
+          background-color: white;
+          color: black;
+          font-size: 16px;
+          font-family: serif;
+          border: 1px solid black;
+          margin-bottom: 5px;
+          padding: 5px 10px;
+      }
+      button:hover {
+          cursor: pointer;
+          text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="main">
+      <p id="situation">Situation text!</p>
+      <p id="progress" style="font-style:italic;margin-top:0;">Progress text!</p>
+      <button id="action" onclick="update()">Action button!</button>
+    </div>
+
+    <script type="text/javascript" src="data.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
