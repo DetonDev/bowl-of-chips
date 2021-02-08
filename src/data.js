@@ -10,12 +10,12 @@ const content = [
     },
     {
         "text": "Oh dear. Kevin walked in at juuuust the right time to see you practically inhaling the last chips in the bowl. The cheese stains coating your fingers don't help, either.",
-        "progress": "Distance 'till escape",
+        "progress": "Distance until escape",
         "length": "50",
         "action": "RUN AWAY"
     },
     {
-        "text": "You come to a screetching halt at the end of the hallway. You quickly realize that this is a dead end and that your punishment will certainly not be light enough to make turning yourself in worth it. Then you see an open window nearby.",
+        "text": "You come to a screeching halt at the end of the hallway. You quickly realize that this is a dead end and that your punishment will certainly not be light enough to make turning yourself in worth it. Then you see an open window nearby.",
         "progress": "\"Toodles!\"",
         "length": "5",
         "action": "Jump out the window!"
@@ -27,13 +27,13 @@ const content = [
         "action": "Get up"
     },
     {
-        "text": "You lift yourself off the pavement and immediately begin sprinting down the street, resisting the temptation to check if your face is broken with a frankly impressive amount of willpower that you really should have used to avoid devouring all those chips in the first place, but oh well.<br><br>Anyway, you'd better run before Kevin finishes trying not to impale his lawn gnomes with the front half of his feet.",
+        "text": "You lift yourself off the pavement and immediately begin sprinting down the street, resisting the temptation to check if your face is broken with a frankly impressive amount of willpower that you really should have used to avoid devouring all those chips in the first place.<br><br>Anyway, you'd better run before Kevin finishes trying not to impale his lawn gnomes with the front half of his feet.",
         "progress": "Distance from Kevin",
         "length": "100",
         "action": "FLEE"
     },
     {
-        "text": "You race through the completely empty city that you have lived in your whole life, bringing back the memories of all the people who used to live here, but dissapeared one-by-one without ever giving any reason or saying goodbye. Due to your current situation, you can't help but wonder how much the local property value has decreased due to you and Kevin's \"antics\".<br><br>Despite feeling as nauesous as if you had drunk a McBurger and your ability to tell where the hell you are rapidly decreasing, you perisist. Now kick your adrenaline levels up to 110 and cross a few hopes and dreams off your bucket list, because it's time to rocket out of here like a tin can.",
+        "text": "You race through the completely empty city that you have lived in your whole life, bringing back the memories of all the people who used to live here, but dissapeared one-by-one without ever giving any reason or saying goodbye. Due to your current situation, you can't help but wonder how much the local property value has decreased due to you and Kevin's \"antics\".<br><br>Despite feeling as nauesous as if you had drunk a McBurger and with your ability to tell where you are rapidly decreasing, you perisist. You kick your adrenaline levels up to 110, cross a few hopes and dreams off your bucket list, and run faster than you ever have in your life.",
         "progress": "Adrenaline",
         "length": "110",
         "action": "LETS GOOOOO"
@@ -64,12 +64,12 @@ const content = [
     },
     {
         "text": "You punch the oak tree with the cat looking at the wood rushing towar—CRAK!<br><br>The dazed cat falls off your arm and immediately hurls itself upon your leg.",
-        "progress": "Punt this motherfucker into kitty hell",
+        "progress": "Punt this fuck into kitty hell",
         "length": "3",
         "action": "Swing leg"
     },
     {
-        "text": "Your leg has been waiting for this moment it's whole life, from it's very first leg day. It launches the cat skybound, sailing along it's parabola until it gets shipwrecked on the sharpest branch in the forest, skewered through the heart.<br><br>You eagerly limp over and jump to grab the key from it's bloody corpse, because you get the feeling that it will be important later. Your arm shrieks with agony the very moment you grab the key, and you realize that you should probably do something about your arm, which is already losing the fight to gangrene. As you can probably tell by it's dark-purple color and the amount of exposed bone, the only hope left at this point is amputation.<br><br>But how do you safely remove an arm in the middle of a forest with a dangerous psychopath chasing you?",
+        "text": "Your leg has been waiting for this moment it's whole life, from it's very first leg day. It launches the cat skybound, sailing along it's parabola until it gets shipwrecked on the sharpest branch in the forest, skewered through the heart.<br><br>You eagerly limp over and jump to grab the key from it's bloody corpse, because you get the feeling that it will be important later. Your arm shrieks with agony the very moment you grab the key, and you realize that you should probably do something about your arm, which is already losing the fight to gangrene. As you can probably tell by it's dark-purple color and the amount of exposed bone, the only hope left at this point is amputation.<br><br>But how do you safely remove an arm in the middle of a forest?",
         "progress": "\"With that cat's gnarly claws, duh.\"",
         "length": "20",
         "action": "Peel kitty claw from corpse"
@@ -135,7 +135,7 @@ const content = [
         "action": "Headbutt"
     },
     {
-        "text": "Getting up on your knees, you lunge scalp-first at Kevin's genitals. Kevin screeches in unfathomable horror, dropping his giant fucking axe to the ground behind him. He is currently writhing on the ground, so you should have enough time to start limping away quickly.",
+        "text": "Getting up on your knees, you lunge scalp-first at Kevin's genitals. Kevin screeches in unfathomable horror, dropping his giant fucking axe to the ground behind him.<br><br>He then joins his axe on the ground, writhing and shrieking. You should have enough time to start limping away before he gets up.",
         "progress": "GTFO",
         "length": "20",
         "action": "\"Owned. B)\""
@@ -147,7 +147,7 @@ const content = [
         "action": "LIMP HARDER MY BOI"
     },
     {
-        "text": "After a good deal of good limping, you finally collapse into the grass. Looking up ahead is the most promising sight you've seen during the duration of this chase: a road.<br><br>You immediately get back up, Now with something to follow, you begin wondering about all the other places in the world. Excepting a few visits to your neighbors' homes that Kevin took you on, you have lived your entire life up to this point completely in your apartment with Kevin. What else could you see in the world that you have only ever read about?",
+        "text": "After a good deal of good limping, you finally collapse into the grass. Looking up ahead is the most promising sight you've seen throughout this entire chase: a road.<br><br>You immediately get back up, Now with something to follow, you begin wondering about all the other places in the world. Excepting a few visits to your neighbors' homes that Kevin took you on, you have lived your entire life up to this point completely in your apartment with Kevin. What else could you see in the world that you have only ever read about?",
         "progress": "On the road again, going places that I've never been...",
         "length": "50",
         "action": "Do adventure"
@@ -171,7 +171,7 @@ const content = [
         "action": "Kick dung"
     },
     {
-        "text": "The dung rolls into the middle of the road. The dung beetle quickly begins giving chase, skittering swiftly to the stuff she needs feed her four ki...<br><br>*squish*<br><br>A white pickup truck rolls onto the dung beetle, it's carcass joining all the weird red stains that definitely aren't blood that are on the tires. With the dung beetle's dreams sufficiently crushed, your ride has finally arrived. As it screeches to a halt, the dirt-caked windows crawl downwards to reveal the truck's heavily freckled underage driver, along with the 5 other people crammed into the truck with her.<br><br>\"Hey shithead, mind getting the fuck in? We don't have all day to sit here for ya to finish pontificating!\"",
+        "text": "The dung rolls into the middle of the road. The dung beetle quickly begins giving chase, skittering swiftly to the only source of food she can feed her four ki...<br><br>*squish*<br><br>A white pickup truck rolls onto the dung beetle, it's carcass joining all the weird red stains that definitely aren't blood that are on the tires. With the dung beetle's dreams sufficiently crushed, your ride has finally arrived. As it screeches to a halt, the dirt-caked windows crawl downwards to reveal the truck's heavily freckled underage driver, along with the 5 other people crammed into the truck with her.<br><br>\"Hey shithead, mind getting the fuck in? We don't have all day to sit here for ya to finish pontificating!\"",
         "progress": "Getting the fuck in",
         "length": "15",
         "action": "Finish pontificating"
@@ -189,10 +189,46 @@ const content = [
         "action": "TALK OVER NOISE"
     },
     {
-        "text": "\"Wait wait wait, you want to go to Loveburg?\"<br><br>The entire vehicle goes silent except for the loudly-humming engine inside this truck's hood. These people are acting as if they were telepathically talking amongst themselves, tring to decide what to do with you.<br><br>But obviously, that couldn't be true.",
+        "text": "\"Wait wait wait, you want to go to Loveburg?\"<br><br>The entire vehicle goes silent except for the loudly-humming engine inside this truck's hood. These people are acting as if they were telepathically talking amongst themselves, trying to decide what to do with you.<br><br>But obviously, that couldn't be true.",
         "progress": "Awkward silence",
         "length": "50",
         "action": "Sit still and be uneasy"
+    },
+    {
+        "text": "Cindina turns to you and says \"Oh, wonderful! We just happen to be going to Loveburg too!\" in the most plastic smile you have ever seen. Adormam fastens you to your place with his arms and Cindina proceeds to gun the truck's engine to dangerous levels.<br><br>As the forests you fled through whiz by at an unholy pace, you find it increasingly difficult to breathe, hear, or anything else. For starters, the rocketing speeds are forcing you and Adormam ever-so-uncomfortably, squished together like two fruits that are squished together. Iatrana and Erald on your sides and both vying for more streching space is the last thing you could have wanted from your hitchhiking experience.",
+        "progress": "Filling your lungs",
+        "length": "75",
+        "action": "GASP for air"
+    },
+    {
+        "text": "For a second, you are almost not asphixiated.<br><br>Unfortunately, that was the second this truck hit the road's largest pebble.<br><br>You are lurched into one of the seats in front of you, knocking the air out of your lungs. The flying limbs of your jolted comrades slapping into yours is comparatively less interesting, mostly because right after you fall out of your seat and into the abyss that feet dwell in during a car ride.",
+        "progress": "GAHHHHHH",
+        "length": "5",
+        "action": "Struggle past the shoes"
+    },
+    {
+        "text": "You attempt to get up, but Adormam kicks you back down and mutters \"more air this way\".<br><br>Wedged into a cavern and being constantly caressed by a coven of putrid shoes, you are once again struggling to breathe.<br><br>You should probably fight for your survival by fighting to get back up.",
+        "progress": "Climb back up",
+        "length": "4",
+        "action": "Flail, grasp, repeat",
+    },
+    {
+        "text": "For a second, you are almost up.<br><br>Unfortunately, that was the second this truck hit the road's second largest pebble.<br><br>You fall back down into the claustrophobia-inducing hellhole from which you (almost)came. However, there is one key difference: Adormam is now on top of you. He was flung out of his seat by the bump and lands elbow-first on your stomach, which bumps up your chances of suffocating to death in this acursed automobile to about the 99th percentile.",
+        "progress": "AVOID DEATH",
+        "length": "3",
+        "action": "Shove Adormam offa you"
+    },
+    {
+        "text": "You nearly budge Adormam back onto his seat, but Iatrana and Erald have seized the opportunity to claim more space for themselves and shove Adormam back down onto you, ensuring your continued smothering.<br><br>Your vision is growing increasingly dark and blurry, and with it you grow more desperate.",
+        "progress": "AVOID DEATH WITH PASSION",
+        "length": "2",
+        "action": "attac"
+    },
+    {
+        "text": "The world grows dark, and your breathing slowly fades. The truck bumps over more pebbles as your unconsious body grows ever closer to death. As you fade from the realm of the living, you hear the others finally noticing and discussing your death.<br><br>\"Oh damn, guys. Another one asphixiated.\"<br><br>\"Shit. Why do they always go out that way?\"<br><br>\"Don't look at me that way! Adormam was on 'em the whole time, and he didn't make a peep about it!\"<br><br>\"Guys guys guys, before you all get pissed at me for keeping myself alive in this crapspace, look on the bright side: They're still in good enough shape to be nyuded! Not like that guy whose neck snapped from the crushing weight of my butt, right?\"<br><br>\"Well... fine. Let's just get back to base quickly before any nasty stuff sets in.\"<br><br>You die shortly after.",
+        "progress": "...",
+        "length": "1",
+        "action": "..."
     },
     {
         "text": "You once again begin perceiving the world around you, or rather the sterile metal room around you. You have just emerged in the sterile metal room from a sterile metal capsule. On the far side of the room is a line of screens, each one showing a bright green checkmark except for the last one, which displays a flashing red ERROR screen.<br><br>Also you are floating.",
@@ -285,9 +321,21 @@ const content = [
         "action": "Teleport"
     },
     {
-        "text": "You are in Squad 1, the finest of all the squad bases that NUYU owns. Which isn't saying much, because the entire area looks like a 50-year-old bus owned by a school in Detroit. The squad that lives here can claim it's for the millitary a s t h e t i c all they like, but truth is a hard thing to deny. Out the rectangular, boxy window, there is no signs of life other than some automated vehichles transporting MEATBAGS to their destinations, as all unfortunate owners of bodies must do.<br><br>Kello directs your attention to the occupants.<br><br>The squad who lives here is the squad that killed your original body.",
+        "text": "You are in Squad 1, the finest of all the squad bases that NUYU owns. Which isn't saying much, because the entire area looks like a beat-up bus. The squad that lives here can claim it's for the millitary aesthetic all they like, but everyone knows better.<br><br>Sensing the environment outside of this building, there is no signs of life other than some automated vehichles transporting MEATBAGs to their destinations, as all unfortunate owners of bodies must do.<br><br>Kello directs your attention to the occupants.<br><br>You quickly recognize a familiar group of MEATBAGS: a redheaded woman, two teens, a dude in a blue hoodie, the oldest man you've ever seen, and a generic person.<br><br> The squad that lives here is the squad that killed your original body.",
         "progress": "YOU GUYS AGAIN",
         "length": "10",
         "action": "fuuuuu"
+    },
+    {
+        "text": "The squad revels in your derison, unluckily enough. You quickly pause and switch gears to probing for information.<br><br>\"Now that these lovely individuals have saved you from a pitiful existence as a fleshthing, perhaps it's time for you to all go off together to set things straight with Kevin, eh?\" Kello suggests-while-implying-that-you-are-forced-to-do-this.",
+        "progress": "Workin' with the SQUAD",
+        "length": "10",
+        "action": "Hhhh...hhi?"
+    },
+    {
+        "text": "",
+        "progress": "",
+        "length": "",
+        "action": ""
     }
 ];
